@@ -54,7 +54,7 @@ DevOps       Docker · GitHub Actions · VPS (Hetzner)
 
 ### ☕ Support
 
-If one of my projects saves you time or makes you money:
+If one of my projects saves you time or makes you money, feel free to send a tip to my Solana wallet:
 
 ```
 6bHv6bgWg5ZdD5GupvtdobFJBhVPihYhY7KyNA7qAigu
